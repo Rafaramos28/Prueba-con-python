@@ -14,3 +14,7 @@ for i in range(len(numeros)):
     suma += numeros[i]
 print("\nsumatoria")
 print(suma)
+
+#promedio
+promedio = suma/len(numeros)
+print("\nEl promedio es",promedio)
