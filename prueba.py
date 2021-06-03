@@ -1,5 +1,5 @@
 import random
-print("Hola mundo")
+print("Bienvenido")
 print("\nEsto es una prueba")
 
 #vamos a crear una lista con 10 números al azar
